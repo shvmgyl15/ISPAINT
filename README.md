@@ -2,15 +2,24 @@
 A Paint application with a GRAPHICS CODE GENERATER built in Turbo C 3.0
 
 # SCREENSHOTS
-![01](/screenshots/01.png?raw=true "01")
-![02](/screenshots/02.png?raw=true "02")
-![03](/screenshots/03.png?raw=true "03")
-![04](/screenshots/04.png?raw=true "04")
-![05](/screenshots/05.png?raw=true "05")
-![06](/screenshots/06.png?raw=true "06")
-![07](/screenshots/07.png?raw=true "07")
-![08](/screenshots/08.png?raw=true "08")
-![09](/screenshots/09.png?raw=true "09")
+01-Password Screen
+![01](/screenshots/01.png?raw=true "01-Password Screen")
+02-Draw Area
+![02](/screenshots/02.png?raw=true "02-Draw Area")
+03-Random Drawing 01
+![03](/screenshots/03.png?raw=true "03-Random Drawing 01")
+04-Random Drawing 02
+![04](/screenshots/04.png?raw=true "04-Random Drawing 02")
+05-Help Menu
+![05](/screenshots/05.png?raw=true "05-Help Menu")
+06-Save as BMP menu
+![06](/screenshots/06.png?raw=true "06-Save as BMP menu")
+07-Save as CPP menu
+![07](/screenshots/07.png?raw=true "07-Save as CPP menu")
+08-Saved CPP code
+![08](/screenshots/08.png?raw=true "08-Saved CPP code")
+09-Output of CPP code in 08
+![09](/screenshots/09.png?raw=true "09-Output of CPP code in 08")
 
    ISPAINT - (G.C.G)
 ------------------------
