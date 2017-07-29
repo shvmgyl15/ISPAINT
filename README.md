@@ -1,6 +1,10 @@
 # ISPAINT
 A Paint application with a GRAPHICS CODE GENERATER built in Turbo C 3.0
 
+# SCREENSHOTS
+
+![01](/relative/path/to/01.png?raw=true "01")
+
    ISPAINT - (G.C.G)
 ------------------------
       CREATED BY: 
