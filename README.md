@@ -2,8 +2,15 @@
 A Paint application with a GRAPHICS CODE GENERATER built in Turbo C 3.0
 
 # SCREENSHOTS
-
 ![01](/screenshots/01.png?raw=true "01")
+![02](/screenshots/02.png?raw=true "02")
+![03](/screenshots/03.png?raw=true "03")
+![04](/screenshots/04.png?raw=true "04")
+![05](/screenshots/05.png?raw=true "05")
+![06](/screenshots/06.png?raw=true "06")
+![07](/screenshots/07.png?raw=true "07")
+![08](/screenshots/01.png?raw=true "08")
+![09](/screenshots/01.png?raw=true "09")
 
    ISPAINT - (G.C.G)
 ------------------------
